@@ -3,3 +3,7 @@ Dataset Plat Nomor
 models
 yolov5
 my_model
+datasets
+detected_images
+best.pt
+new_model.pt
