@@ -7,3 +7,4 @@ datasets
 detected_images
 best.pt
 new_model.pt
+data.zip
