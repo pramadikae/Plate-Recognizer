@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+tensorflow
+torch
+ultralytics
+matplotlib
+ipython
